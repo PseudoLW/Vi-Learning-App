@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@types/bun": "^1.1.16",
+    "preact": "^10.25.4"
+  },
+  "scripts": {
+    "watch-client": "bun build"
+  }
+}
