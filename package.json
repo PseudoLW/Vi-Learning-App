@@ -4,6 +4,6 @@
     "preact": "^10.25.4"
   },
   "scripts": {
-    "watch-client": "bun build"
+    "dev": "bun run ./src/server/index.ts"
   }
 }
